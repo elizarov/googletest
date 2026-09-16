@@ -10,7 +10,6 @@ MacroCategories:
     - GTEST_ATTRIBUTE_*
     - GTEST_INTERNAL_DEPRECATE_AND_INLINE
     - GTEST_NO_INLINE_
-    - GTEST_NO_TAIL_CALL_
     - WINAPI
   MethodDeclarationMacros:
     - MOCK_METHOD
